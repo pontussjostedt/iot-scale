@@ -60,7 +60,7 @@ I built it on a breadboard I had laying around. It was also quite convenient tha
 
 ## Sock Theory
 
-In order to better understand the design choices made: one must familiarize themself with some of the sock theory hypothezised after running experiments with an earlier version of the scale.
+In order to better understand the design choices made: one must familiarize themself with some of the sock theory hypothesized after running experiments with an earlier version of the scale.
 
 ### Phases
 
