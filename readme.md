@@ -1,5 +1,6 @@
 # IoT scale
 
+_This is a project for the course 1DT305 - Applied IoT at LNU_ <br>
 **Author:** Pontus Sjöstedt (ps223ue)
 
 IoT-scale is a wifi-connected sensor that records temperature, humpidity, and, weight on a loadcell over time. This data is published over `MQTT` using `mosquitto` and aggregated in a `postgres` database. The data can then be quickly viewed using a primitive dashboard which consists of a `plotly` plot.
@@ -68,7 +69,7 @@ A hanging socks drying process can be divided into 3 phases. A plot of the dryin
 
 #### The Dripping Phase
 
-At first the driving drying cause is water dripping from the sock. The cause of this is likely gravity pushing water down to the lower parts of the sock where it is ejected as drops from the saturated fibers. The result is an exponential decay. During this phases the drying is the fastest. The dripping likely stops when there is not enough of a waterpillar to overpower the bonds between the sock fibers and the water molecules.
+At first the driving sock drying factor was water dripping from the sock. The cause of this is likely gravity pushing water down to the lower parts of the sock where it is ejected as drops from the saturated fibers. The result is an exponential decay. During this phases the drying is the fastest. The dripping likely stops when there is not enough of a waterpillar to overpower the bonds between the sock fibers and the water molecules.
 
 #### The saturated evaporation phase
 
